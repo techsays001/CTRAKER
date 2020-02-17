@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+     
+        
+
+    <style name="MyMaterialTheme" parent="MyMaterialTheme.Base">
+         
+            
+    </style>
+     
+        
+
+    <style name="MyMaterialTheme.Base" parent="Theme.AppCompat.Light.DarkActionBar">
+                
+        <item name="windowNoTitle">true</item>
+                
+        <item name="windowActionBar">true</item>
+                
+        <item name="colorPrimary">@color/green</item>
+                
+        <item name="colorPrimaryDark">@color/green</item>
+                
+        <item name="colorAccent">@color/green</item>
+            
+    </style>
+    <style name="MenuActivity6Theme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:itemBackground">@color/colorMenu</item>
+    </style>
+     <style name="SpinnerTheme" parent="android:Widget.Spinner">
+    <item name="android:background">@drawable/bg_spinner</item>
+</style>
+</resources>

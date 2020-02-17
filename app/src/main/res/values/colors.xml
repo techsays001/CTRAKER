@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="white_trans">#88FFFFFF</color>
+    <color name="send_otp_blue">#FFFFFF</color>
+    <color name="send_otp_blue_dark">#FFFFFF</color>
+    <color name="sendotp_grey">#FFFFFF</color>
+    <color name="sendotp_medium_grey">#FFFFFF</color>
+    <color name="sendotp_light_grey">#FFFFFF</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="black">#070707</color>
+
+    <color name="green">#F10000</color>
+    <color name="grey">#828080</color>
+    <color name="red">#FF0000</color>
+    <color name="grey1">#4f4f4f</color>
+
+<color name="colorMenu">#FFFFFF</color>
+
+    <color name="grey2">#d6d6d6</color>
+    <color name="grey3">#C8F403</color>
+
+</resources>
